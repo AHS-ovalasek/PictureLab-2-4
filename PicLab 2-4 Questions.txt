@@ -1,0 +1,16 @@
+A2:
+1. red - 255 green - 0 blue - 255
+2. red - 255 green - 255 blue - 0
+3. red - 102 green - 0 blue - 255
+4. red - 255 green - 255 blue - 255
+
+A3:
+1. 0 
+2. 0 
+3. 639
+4. 479
+5. top to bottom
+6. left to right
+7. yes
+
+A4. 
